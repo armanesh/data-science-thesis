@@ -17,9 +17,9 @@ It also uses:
 - 🧠 **RFECV (Recursive Feature Elimination with Cross-Validation)** for feature selection
 - 📊 Real estate dataset from the **Funda-Sold** platform (2020–2023)
 
-📄 The full thesis is available in `thesis.pdf`.
+📄 The full thesis is available in `AliRahbarimanesh-Thesis.pdf`.
 
----
 
-## 📁 Repository Structure
+
+
 
